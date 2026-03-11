@@ -1,0 +1,5 @@
+{
+  "name": "LogicFlow Simulator",
+  "description": "A robust, P5.js-based logic circuit simulator with discrete tick processing, drag-and-drop construction, and extensible gate definitions.",
+  "requestFramePermissions": []
+}
